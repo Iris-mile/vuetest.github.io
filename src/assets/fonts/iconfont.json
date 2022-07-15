@@ -1,0 +1,23 @@
+{
+  "id": "3002407",
+  "name": "cmp",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2674474",
+      "name": "播放",
+      "font_class": "play",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "5622624",
+      "name": "耳机",
+      "font_class": "erji",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    }
+  ]
+}
